@@ -1,0 +1,491 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Página-1" id="tacD86KueJLaqGJhA1e_">
+    <mxGraphModel dx="1853" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-2" value="Usuario" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-3" value="Sistema" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-4" target="DejgSrWPDkzCWVY7WVXP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="345" />
+              <mxPoint x="360" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-10" value="Obtiene procesos en ejecucion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-9">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=-0.1;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-1" target="DejgSrWPDkzCWVY7WVXP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-7" value="Ingresa Ruta Origen/Destino de Archivos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-6">
+          <mxGeometry x="-0.2838" y="1" relative="1" as="geometry">
+            <mxPoint x="28" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-8" target="DejgSrWPDkzCWVY7WVXP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="415" />
+              <mxPoint x="280" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-13" value="Elimina procesos en ejecucion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-12">
+          <mxGeometry x="-0.0933" y="3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-24" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="601" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-29" value="Crea Directorio Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="218" y="631" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-31" value="¿No Existe Backup?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="605" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-11" target="DejgSrWPDkzCWVY7WVXP-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="485" />
+              <mxPoint x="360" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-35" value="Genera Ruta Backup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-33">
+          <mxGeometry x="-0.0824" y="2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.214;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-16" target="DejgSrWPDkzCWVY7WVXP-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="725" />
+              <mxPoint x="150" y="823" />
+              <mxPoint x="240" y="823" />
+              <mxPoint x="240" y="830" />
+              <mxPoint x="242" y="830" />
+              <mxPoint x="242" y="818" />
+              <mxPoint x="240" y="818" />
+            </Array>
+            <mxPoint x="230" y="823" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-40" value="Obtiene archivos con extensión &quot;.eini&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-39">
+          <mxGeometry x="-0.0933" y="3" relative="1" as="geometry">
+            <mxPoint x="7" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-29" target="DejgSrWPDkzCWVY7WVXP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-45" value="Actualiza Archivos de Ruta Origen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-44">
+          <mxGeometry x="-0.6731" y="2" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-46" value="Foreach" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="239.5" y="773" width="169.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-48" value="Ejecuta archivos .bat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="803" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-2" target="DejgSrWPDkzCWVY7WVXP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="300" />
+              <mxPoint x="20" y="300" />
+              <mxPoint x="20" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-53" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.818;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-3" target="DejgSrWPDkzCWVY7WVXP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-57" value="Foreach" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="894" width="209" height="1006" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-60" value="case&amp;nbsp;&quot;.add&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="934" width="209" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="918" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="840" />
+              <mxPoint x="480" y="918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-62" value="Obtiene archivos sin extensiónes &quot;.eini&quot;,&quot;.eend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-61">
+          <mxGeometry x="-0.3836" relative="1" as="geometry">
+            <mxPoint y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-63" target="DejgSrWPDkzCWVY7WVXP-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-63" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="970" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-64" value="¿Si Crea Backup?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="974" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-65" value="Copia Archivo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="1046" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-67" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="920" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-68" value="¿Si Existe Archivo Original?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-178" y="923" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-70" value="Backup" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-301" y="880" width="300" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-71" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="960" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-72" value="Extension ==&amp;nbsp;&quot;.del&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="962" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-73" value="Cambia Extensión a &quot;.upd&quot;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="990" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-75" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1060" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-76" value="Extension ==&amp;nbsp;&quot;.eini&quot; || Extension ==&amp;nbsp;&quot;.exc&quot; || Extension ==&amp;nbsp;&quot;.eend&quot; || Extension ==&amp;nbsp;&quot;.params&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1062" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-77" value="Camina nombre de archivo backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1090" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-73" target="DejgSrWPDkzCWVY7WVXP-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-81" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="1184" width="290" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-82" value="Extension ==&amp;nbsp;&quot;.del&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1186" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-67" target="DejgSrWPDkzCWVY7WVXP-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-85" target="DejgSrWPDkzCWVY7WVXP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-85" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1230" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-86" value="¿No Existe Directorio?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1232" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-87" value="Crea Directorio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1260" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-88" value="Escibre en el nuevo archivo vacio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1330" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-97" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="1419" width="290" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-98" value="Extension ==&amp;nbsp;&quot;.upd&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1421" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-100" target="DejgSrWPDkzCWVY7WVXP-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-100" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1465" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-101" value="¿No Existe Directorio?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1467" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-102" value="Crea Directorio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1495" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-103" value="Escibre en el nuevo archivo vacio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1565" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.213;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-81" target="DejgSrWPDkzCWVY7WVXP-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-105" target="DejgSrWPDkzCWVY7WVXP-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-105" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="1655" width="290" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-106" value="¿No Existe Extensióm?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1657" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-111" value="return" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1690" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-97" target="DejgSrWPDkzCWVY7WVXP-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-115" target="DejgSrWPDkzCWVY7WVXP-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-115" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1852" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-116" value="¿No Existe Directorio?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1854" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-117" value="Crea Directorio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1882" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-118" value="Establece nueva ruta para archivo de backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-291" y="1780" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-119" value="Copia Archivo a Ruta Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1952" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-118" target="DejgSrWPDkzCWVY7WVXP-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-124" value="Genera Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1000" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-124" target="DejgSrWPDkzCWVY7WVXP-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1015" />
+              <mxPoint x="160" y="840" />
+              <mxPoint x="-150" y="840" />
+              <mxPoint x="-150" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-126" value="case&amp;nbsp;&quot;.xmrg&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="1142" width="209" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-128" target="DejgSrWPDkzCWVY7WVXP-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-128" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1178" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-129" value="¿Si Crea Backup y Existe Archivo?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1182" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-130" value="Merge Archivo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="1254" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-131" value="Genera Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1208" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-131" target="DejgSrWPDkzCWVY7WVXP-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1223" />
+              <mxPoint x="160" y="840" />
+              <mxPoint x="-147" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-133" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1232" width="290" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-134" value="¿Existe Archivo Destino?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1234" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-139" value="Hace merge con archivo original" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1266" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-130" target="DejgSrWPDkzCWVY7WVXP-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-141" value="case&amp;nbsp;&quot;.upd&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="1348" width="209" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-143" target="DejgSrWPDkzCWVY7WVXP-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-143" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1384" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-144" value="¿Si Crea Backup?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1388" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-145" value="Copia Archivo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="1460" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-146" value="Genera Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1414" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-147" value="case&amp;nbsp;&quot;.del&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="1554" width="209" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-149" target="DejgSrWPDkzCWVY7WVXP-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-149" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1590" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-150" value="¿Si Crea Backup?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1594" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-151" value="Remueve Archivo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="1666" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-152" value="Genera Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1620" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-146" target="DejgSrWPDkzCWVY7WVXP-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1429" />
+              <mxPoint x="160" y="840" />
+              <mxPoint x="-148" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-152" target="DejgSrWPDkzCWVY7WVXP-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1635" />
+              <mxPoint x="160" y="840" />
+              <mxPoint x="-147" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-156" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1638" width="290" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-157" value="¿Existe Archivo?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1640" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-158" value="Eliminar Archivo" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1672" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-151" target="DejgSrWPDkzCWVY7WVXP-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-160" value="case&amp;nbsp;&quot;.exc&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="220.75" y="1760" width="209" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-164" value="Ejecuta Archivos .bat" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="1802" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.007;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.48;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-57" target="DejgSrWPDkzCWVY7WVXP-169">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="321" y="1920" />
+              <mxPoint x="154" y="1920" />
+              <mxPoint x="154" y="1995" />
+            </Array>
+            <mxPoint x="184" y="2032" as="targetPoint" />
+            <mxPoint x="314" y="1957" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-168" value="Obtiene archivos con extensión &quot;.eend&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-167">
+          <mxGeometry x="-0.0933" y="3" relative="1" as="geometry">
+            <mxPoint x="66" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-169" value="Foreach" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="238.25" y="1952" width="169.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-170" value="Ejecuta archivos .bat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1982" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-172" target="DejgSrWPDkzCWVY7WVXP-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-172" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="2065" width="290" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-173" value="¿Si Existe Error en Proceso de Actualización?" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="2067" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-174" value="Genera Rollback" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="181" y="2099" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-176" target="DejgSrWPDkzCWVY7WVXP-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-176" value="Elimina Contenido Archivos&amp;nbsp;Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2195" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-177" target="DejgSrWPDkzCWVY7WVXP-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-177" value="Elimina Contenido Archivos Origen" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="181" y="2260" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-178" target="DejgSrWPDkzCWVY7WVXP-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-178" value="Elimina&amp;nbsp;Directorio Backup" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="182" y="2330" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-179" value="Elimina Directorio Archivos Origen" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="182" y="2400" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-169" target="DejgSrWPDkzCWVY7WVXP-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-193" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="312" y="2480" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="DejgSrWPDkzCWVY7WVXP-179" target="DejgSrWPDkzCWVY7WVXP-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DejgSrWPDkzCWVY7WVXP-195" value="Fin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DejgSrWPDkzCWVY7WVXP-194">
+          <mxGeometry x="0.079" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
